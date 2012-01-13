@@ -12,7 +12,6 @@
            fetch="https://github.com/"
            review="review.cyanogenmod.com" />
 
-
   <remote name="playfulgod"
           fetch="git://github.com/playfulgod" />
 
